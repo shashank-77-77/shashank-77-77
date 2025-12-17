@@ -28,7 +28,7 @@ Statistics
 
 <p align="center">
   <a href="https://github.com/shashank-77-77">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-77-77&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-77-77&theme=radical&border=7F3FBF&background=0D1117" alt="Shashank Mankar GitHub streak"/>
   </a>
 </p>
 
