@@ -13,17 +13,7 @@
 <h2 align="center">Leetcode Info<h2>
 
 
-  
-<p align="center">
-  <a href="https://leetcode.com/shashank-77-77/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/shashank-77-77/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/shashank-77-77/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-  
-</p>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shashank-77-77?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
+
 - Web Development
 <img src="https://github.com/shashank-77-77/shashank-77-77/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 
@@ -51,5 +41,18 @@ Statistics
 
 
 
-
-
+🌐 CONNECT WITH ME
+<p align="center"> 
+<a href="https://www.linkedin.com/in/shashankmankar" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/> 
+</a> 
+&nbsp;&nbsp; 
+<a href="https://x.com/shashankmnakar7" target="_blank"> <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/> </a>
+ &nbsp;&nbsp;
+ <a href="https://github.com/shashank-77-77" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/> </a> 
+</p> 
+<p align="center">
+ <a href="https://leetcode.com/u/shashankmankar777/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/> </a> 
+&nbsp;&nbsp; 
+<a href="https://t.me/shashankmankar777" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"/> </a> 
+&nbsp;&nbsp;
+ <a href="https://www.facebook.com/ShashankMankar18" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/> </a> </p>
