@@ -39,20 +39,38 @@ Statistics
 <a href="https://github.com/shashank-77-77"><img alt="Shashank Mankar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shashank-77-77&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
 
+## 🌐 CONNECT WITH ME
 
-
-🌐 CONNECT WITH ME
-<p align="center"> 
-<a href="https://www.linkedin.com/in/shashankmankar" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/> 
-</a> 
-&nbsp;&nbsp; 
-<a href="https://x.com/shashankmnakar7" target="_blank"> <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/> </a>
- &nbsp;&nbsp;
- <a href="https://github.com/shashank-77-77" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/> </a> 
-</p> 
 <p align="center">
- <a href="https://leetcode.com/u/shashankmankar777/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/> </a> 
-&nbsp;&nbsp; 
-<a href="https://t.me/shashankmankar777" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"/> </a> 
-&nbsp;&nbsp;
- <a href="https://www.facebook.com/ShashankMankar18" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/> </a> </p>
+  <a href="https://www.linkedin.com/in/shashankmankar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/shashankmankar7" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shashank-77-77" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/shashankmankar777/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/shashankmankar777" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/ShashankMankar18" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/shashankmankar18" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+  </a>
+</p>
+
+
