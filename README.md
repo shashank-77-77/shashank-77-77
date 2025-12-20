@@ -31,39 +31,54 @@ Primary focus areas:
 
 ---
 
-## 🧠 LeetCode Activity
+## 📊 GitHub Statistics & Analytics
 
+
+
+<!-- Profile Summary -->
 <p align="center">
-  <img src="https://github.com/shashank-77-77/shashank-77-77/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed"
-       alt="LeetCode Overview"
-       width="900"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/shashank-77-77">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-77-77&theme=radical&border=7F3FBF&background=0D1117"
-         alt="GitHub Streak Stats"/>
+  <a href="https://github.com/shashank-77-77" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashank-77-77&theme=radical"
+      alt="GitHub Profile Summary"
+    />
   </a>
 </p>
 
+<!-- Overall Stats -->
 <p align="center">
-  <a href="https://github.com/shashank-77-77">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashank-77-77&theme=radical"
-         alt="GitHub Profile Summary"/>
+  <a href="https://github.com/shashank-77-77" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shashank-77-77&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      alt="GitHub Overall Stats"
+      height="190"
+    />
   </a>
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <a href="https://github.com/shashank-77-77">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shashank-77-77&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-         alt="GitHub Overall Stats"
-         height="190"/>
+  <a href="https://github.com/shashank-77-77?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-77-77&layout=compact&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"
+      alt="Top Programming Languages"
+      height="190"
+    />
   </a>
 </p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <a href="https://github.com/shashank-77-77" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=shashank-77-77&theme=react-dark&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF"
+      alt="GitHub Contribution Graph"
+    />
+  </a>
+</p>
+
+
+
 
 ---
 
@@ -101,15 +116,5 @@ Primary focus areas:
   </a>
 </p>
 
----
-
-### 🔗 Canonical Links (Reference Layer)
-
-- GitHub: https://github.com/shashank-77-77  
-- LinkedIn: https://www.linkedin.com/in/shashankmankar  
-- X (Twitter): https://x.com/shashankmankar7  
-- Telegram: https://t.me/shashankmankar777  
-- LeetCode: https://leetcode.com/u/shashankmankar777/  
-- Facebook: https://www.facebook.com/ShashankMankar18  
-- Instagram: https://www.instagram.com/shashankmankar18  
+--- 
 
