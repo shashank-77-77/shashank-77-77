@@ -1,4 +1,11 @@
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shashank+Mankar....;Nice+to+meet+you!&center=true&size=20">
+  </a>
+</h1>
+
+
 <!-- Hero Animation -->
 <div align="center">
   <a href="https://github.com/shashank-77-77">
