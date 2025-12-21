@@ -118,13 +118,12 @@ Primary focus areas:
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|--------|------------|------------|-------|
-| ☕ **RestoCafe – Restaurant Website** | Production-ready restaurant website with responsive UI, clean navigation, and modern UX. | HTML, CSS, JavaScript, Bootstrap | [Live Site](https://restocafe77.netlify.app/) |
-| 🤖 **Virtual Assistant – Engineering Project** | Final-year engineering project focused on automation, utilities, and AI-driven workflows. | Python, Automation, AI Concepts | [GitHub Repo](https://github.com/shashank-77-77/Virtual-Assistant-Engg-Project) |
-| 🎬 **Edit Your Video – Web Tool** | Browser-based video editing interface emphasizing simplicity and usability. | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/shashank-77-77/EDIT-YOUR-VIDEO-WEBSITE) |
-| 🛒 **Online Shop – Demo Website** | Frontend e-commerce demo showcasing product listings and shopping UI flow. | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/shashank-77-77/OnlineShop-Website-Demo) |
-
+| 🚧 Project | 💡 What It Delivers | 🛠️ Tech Stack | 🔗 Access |
+|-----------|-------------------|--------------|----------|
+| ☕ **RestoCafe – Restaurant Website** | Customer-facing restaurant website focused on responsive design, intuitive navigation, and conversion-ready UI for real-world deployment. | HTML · CSS · SCSS · JavaScript · Bootstrap | 🌐 [Live Website](https://restocafe77.netlify.app/) |
+| 🤖 **Virtual Assistant – Engineering Project** | Automation-driven virtual assistant enabling task execution, utility workflows, and AI-based interactions as an academic capstone. | Python · Automation · AI Concepts | 📦 [GitHub Repo](https://github.com/shashank-77-77/Virtual-Assistant-Engg-Project) |
+| 🎬 **Edit Your Video – Web Tool** | Lightweight browser-based video editing interface prioritizing usability, minimal friction, and fast user interaction. | HTML · CSS · JavaScript | 📦 [GitHub Repo](https://github.com/shashank-77-77/EDIT-YOUR-VIDEO-WEBSITE) |
+| 🛒 **Online Shop – Demo Website** | Frontend e-commerce demo showcasing product catalogs, layout structure, and shopping flow fundamentals. | HTML · CSS · JavaScript | 📦 [GitHub Repo](https://github.com/shashank-77-77/OnlineShop-Website-Demo) |
 
 
 
