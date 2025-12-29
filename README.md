@@ -128,7 +128,7 @@ Primary focus areas:
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 🌐
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shashankmankar" target="_blank">
