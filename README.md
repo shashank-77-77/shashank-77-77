@@ -13,13 +13,12 @@
          alt="Developer at Work"
          width="50%"/>
   </a>
+  
 </div>
 
 ---
 
 ## 👨‍🎓 Profile Overview
-
-**Learner | College Student | Aspiring Software Engineer**
 
 Primary focus areas:
 - Web Development
