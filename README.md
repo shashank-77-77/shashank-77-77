@@ -117,14 +117,14 @@ Primary focus areas:
 
 ## 🚀 Featured Projects
 
-| 🚧 Project | 💡 What It Delivers | 🛠️ Tech Stack | 🔗 Access |
-|-----------|-------------------|--------------|----------|
-| ☕ **RestoCafe – Restaurant Website** | Customer-facing restaurant website focused on responsive design, intuitive navigation, and conversion-ready UI for real-world deployment. | HTML · CSS · SCSS · JavaScript · Bootstrap | 🌐 [Live Website](https://restocafe77.netlify.app/) |
-| 🤖 **Virtual Assistant – Engineering Project** | Automation-driven virtual assistant enabling task execution, utility workflows, and AI-based interactions as an academic capstone. | Python · Automation · AI Concepts | 📦 [GitHub Repo](https://github.com/shashank-77-77/Virtual-Assistant-Engg-Project) |
-| 🎬 **Edit Your Video – Web Tool** | Lightweight browser-based video editing interface prioritizing usability, minimal friction, and fast user interaction. | HTML · CSS · JavaScript | 🌐 [Live Website](https://edityourvideos.netlify.app/) |
-| 🛒 **Online Shop – Demo Website** | Frontend e-commerce demo showcasing product catalogs, layout structure, and shopping flow fundamentals. | HTML · CSS · JavaScript | 📦 [GitHub Repo](https://github.com/shashank-77-77/OnlineShop-Website-Demo) |
-
-
+| # | 🚧 Project                                     | 💡 What It Delivers                                                                                                                                                    | 🛠️ Tech Stack                                                     | 🔗 Access                                                                          |
+| - | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| 1 | 🌐 **MERN Social – Full-Stack Platform**       | A scalable social media platform featuring posts, likes, comments, real-time chat, and AI-powered caption assistance, designed with a modular full-stack architecture. | React · Node.js · Express · MongoDB · JWT · Docker · AWS · .NET AI | 📦 [GitHub Repo](https://github.com/shashank-77-77/Mern-social)                                |
+| 2 | 👨‍💻 **Portfolio Website**                    | Personal developer portfolio showcasing projects, skills, academic background, and professional profile with a clean, responsive UI.                                   | HTML · CSS · JavaScript · Tailwind CSS                             | 🌐 [Live Website](                                  |
+| 3 | ☕ **RestoCafe – Restaurant Website**           | Customer-facing restaurant website focused on responsive design, intuitive navigation, and conversion-ready UI for real-world deployment.                              | HTML · CSS · SCSS · JavaScript · Bootstrap                         | 🌐 [Live Website](https://restocafe77.netlify.app/)                                |
+| 4 | 🤖 **Virtual Assistant – Engineering Project** | Automation-driven virtual assistant enabling task execution, utility workflows, and AI-based interactions as an academic capstone.                                     | Python · Automation · AI Concepts                                  | 📦 [GitHub Repo](https://github.com/shashank-77-77/Virtual-Assistant-Engg-Project) |
+| 5 | 🎬 **Edit Your Video – Web Tool**              | Lightweight browser-based video editing interface prioritizing usability, minimal friction, and fast user interaction.                                                 | HTML · CSS · JavaScript                                            | 🌐 [Live Website](https://edityourvideos.netlify.app/)                             |
+| 6 | 🛒 **Online Shop – Demo Website**              | Frontend e-commerce demo showcasing product catalogs, layout structure, and shopping flow fundamentals.                                                                | HTML · CSS · JavaScript                                            | 📦 [GitHub Repo](https://github.com/shashank-77-77/OnlineShop-Website-Demo)        |
 
 ---
 
