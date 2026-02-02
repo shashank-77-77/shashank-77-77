@@ -92,17 +92,6 @@ Primary focus areas:
   </a>
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <a href="https://github.com/shashank-77-77?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-77-77&layout=compact&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"
-      alt="Top Programming Languages"
-      height="200"
-    />
-  </a>
-</p>
-
 <!-- Contribution Graph -->
 <p align="center">
   <a href="https://github.com/shashank-77-77" target="_blank" rel="noopener noreferrer">
